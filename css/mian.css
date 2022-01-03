@@ -74,7 +74,7 @@ body {
 }
 
 .card-container .plan .plan-description {
-    flex-grow: 2;
+    flex-grow: 1;
     padding-left: 16px;
 }
 
